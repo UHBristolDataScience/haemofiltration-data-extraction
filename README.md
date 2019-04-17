@@ -9,7 +9,7 @@ Data extraction and processing scripts. There are two scripts:
 *Processing haemofiltration data.ipynb*
   * This is a Jupyter notebook (python script) for processing the data extracted from ICCA.
   * This notebook uses the powerful Pandas library to manipulate the data.
-  * The notebook should render online in github (although formatting may be nicer if you download and run it locally). 
+  * The notebook should render online in github allowing you to view the script in your browser (you may sometimes get a message "Sorry, something went wrong. Reload?" when github is having a bad time).
   * Comments inline explain the main functions of the script.
   
   
