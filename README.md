@@ -1,4 +1,4 @@
-# haemofiltration_audit
+# haemofiltration_data_extraction
 Data extraction and processing scripts. There are two scripts:
 
 *haemofiltration_data_extraction_cjm.sql*
